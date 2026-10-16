@@ -1,16 +1,27 @@
 
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Afreed7411/Afreed7411/main/banner.png"
+    width="100%"
+    alt="Afreed Mokashi — Full Stack Developer, DevOps Practitioner and Technical Educator"
+  />
+</div>
+
 <div align="center">
 
-# AFREED MOKASHI
+### FULL STACK DEVELOPER · DEVOPS · TECHNICAL EDUCATOR
 
-### `Full Stack Developer` · `DevOps Practitioner` · `Technical Educator`
-
-**Build. Automate. Deploy. Teach.**
+Building real-world applications. Automating workflows.
+Sharing knowledge.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Afreed7411-0d1117?style=for-the-badge&logo=github)](https://github.com/Afreed7411)
-[![Repositories](https://img.shields.io/badge/Explore-Projects-0969da?style=for-the-badge&logo=git)](https://github.com/Afreed7411?tab=repositories)
+[![Projects](https://img.shields.io/badge/Explore-Projects-0969da?style=for-the-badge&logo=github)](https://github.com/Afreed7411?tab=repositories)
 
 </div>
+
+---
+
 
 ---
 
