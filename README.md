@@ -1,81 +1,141 @@
 
 <div align="center">
 
-# AFREED MOKASHI 👋
+# AFREED MOKASHI
 
-### Full Stack Developer | DevOps Practitioner | Technical Educator
+### `Full Stack Developer` · `DevOps Practitioner` · `Technical Educator`
 
-Building real-world applications • Automating workflows • Sharing knowledge
+**Build. Automate. Deploy. Teach.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Afreed7411-181717?style=for-the-badge&logo=github)](https://github.com/Afreed7411)
+[![GitHub](https://img.shields.io/badge/GitHub-Afreed7411-0d1117?style=for-the-badge&logo=github)](https://github.com/Afreed7411)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-0969da?style=for-the-badge&logo=git)](https://github.com/Afreed7411?tab=repositories)
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 👨‍💻 About Me
 
-I'm a software developer and technical educator passionate about
-full-stack development, DevOps practices, and hands-on learning.
+I'm a developer and technical educator passionate about building
+applications, automating software delivery, and making technology
+easier to understand.
 
-- 💻 Building full-stack applications using the MERN stack
-- 🐳 Exploring containerization with Docker
-- ⚙️ Practicing CI/CD automation using Jenkins and GitHub Actions
-- ☸️ Learning and implementing Kubernetes deployment workflows
-- 🎓 Helping students understand complex technical concepts through practice
-- 🚀 Turning concepts into practical, real-world projects
+- ⚡ Full-stack web development
+- 🐳 Containerization with Docker
+- 🔄 CI/CD and deployment automation
+- ☸️ Kubernetes and cloud-native technologies
+- 🎓 Practical, project-based technical teaching
 
-> My philosophy: Learn it. Build it. Automate it. Teach it.
+**My approach:** Learn by building. Improve through practice.
+Share knowledge with the community.
 
-## 🛠️ Technologies & Tools
+</td>
+<td width="40%" valign="top">
 
-### Full Stack Development
+## 🎯 What I Do
+
+**01 / DEVELOP**
+
+Build full-stack web applications.
+
+**02 / AUTOMATE**
+
+Create repeatable CI/CD workflows.
+
+**03 / DEPLOY**
+
+Practice containerization and orchestration.
+
+**04 / TEACH**
+
+Turn complex concepts into practical examples.
+
+</td>
+</tr>
+</table>
+
+## ⚙️ Technology Arsenal
+
+<div align="center">
+
+**FULL STACK DEVELOPMENT**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Express](https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Automation
+**DEVOPS & AUTOMATION**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+</div>
+
 ## 🚀 Featured Projects
 
-Here are some areas I'm exploring through hands-on projects.
-
-### 🐳 Containerization & Docker
-Building and running containerized applications, exploring networking,
-and understanding multi-container architectures.
-
-### ⚙️ CI/CD Automation
-Practicing automated builds, testing, and deployment using Jenkins
-and GitHub Actions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Full Stack Applications
-Developing web applications with React, Node.js, Express, and MongoDB.
 
-### ☸️ Cloud-Native Deployments
-Learning container orchestration and deployment workflows with Kubernetes.
+Building web applications with frontend, backend APIs, and database integration.
 
-🔗 **[Explore My Repositories](https://github.com/Afreed7411?tab=repositories)**
+**Focus:** React · Node.js · Express · MongoDB
 
-## 🎓 Technical Teaching
+[Explore repositories →](https://github.com/Afreed7411?tab=repositories)
 
-I enjoy making technical concepts simple, practical, and easy to apply.
+</td>
+<td width="50%" valign="top">
 
-- Explaining development and DevOps concepts through examples
-- Creating hands-on labs and technical notes
-- Helping learners understand industry workflows
-- Encouraging project-based learning and troubleshooting
+### 🐳 Docker & Containers
 
-## 📊 GitHub Statistics
+Exploring container images, networking, multi-container applications, and deployment.
+
+**Focus:** Docker · Linux · Networking
+
+[Explore repositories →](https://github.com/Afreed7411?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 CI/CD Automation
+
+Building automated workflows for code integration, testing, and delivery.
+
+**Focus:** Jenkins · GitHub Actions · Git
+
+[Explore repositories →](https://github.com/Afreed7411?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### ☸️ Kubernetes & Deployment
+
+Practicing application deployment, services, configuration, and orchestration.
+
+**Focus:** Kubernetes · Docker · DevOps
+
+[Explore repositories →](https://github.com/Afreed7411?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+> Replace these concept cards with links to your actual projects as you publish them.
+
+## 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -83,13 +143,34 @@ I enjoy making technical concepts simple, practical, and easy to apply.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreed7411&layout=compact&theme=github_dark&hide_border=true)
 
+![Contribution Streak](https://streak-stats.demolab.com?user=Afreed7411&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+## 🎓 Technical Educator
+
+I believe technology is best learned by building, breaking, debugging,
+and explaining real-world solutions.
+
+- 🧩 Simplifying difficult technical concepts
+- 🛠️ Designing practical hands-on exercises
+- 📘 Creating clear technical notes and tutorials
+- 🤝 Encouraging problem-solving and continuous learning
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Afreed7411)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
 </div>
 
 ---
 
 <div align="center">
 
-### BUILD • AUTOMATE • DEPLOY • TEACH
+### `BUILD  •  AUTOMATE  •  DEPLOY  •  TEACH`
 
 *Continuously learning. Building with purpose. Sharing knowledge.*
 
